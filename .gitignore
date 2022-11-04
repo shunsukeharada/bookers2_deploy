@@ -41,3 +41,4 @@ yarn-debug.log*
 
 environment.sh
 .c9/
+/.env
